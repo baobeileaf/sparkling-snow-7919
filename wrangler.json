@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "sparkling-snow-7919",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "27ed8b25-8d97-433c-8ea7-821814184594",
+      "database_name": "red-hall-74c5-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
